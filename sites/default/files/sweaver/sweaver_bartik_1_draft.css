@@ -1,0 +1,48 @@
+#name-and-slogan #site-slogan {
+  font-family: 'Lucida Sans','Lucida Grande',Sans-Serif;
+}
+
+#header .section {
+  color: #2da66d;
+  background-color: #117830;
+  background-repeat: no-repeat;
+  border-top-color: #092254;
+  border-right-color: #092254;
+  border-bottom-color: #092254;
+  border-left-color: #092254;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  height: 90px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#main #sidebar-first {
+  padding-top: 0px;
+  margin-top: 65px;
+  border-left-width: 0px;
+  margin-left: -90px;
+  margin-right: 0px;
+}
+
+#page #header {
+  background-color: #117830;
+  background-image: none;
+}
+
+#sidebar-first .section {
+  margin-left: 0px;
+}
+
+#main #content {
+  background-position: 100% 0%;
+  background-repeat: no-repeat;
+  margin-right: 0px;
+  background-image: none;
+  border-right-width: 0px;
+  margin-left: 250px;
+  margin-top: -200px;
+}
+
